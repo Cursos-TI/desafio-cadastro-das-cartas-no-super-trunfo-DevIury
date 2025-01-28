@@ -29,6 +29,7 @@ int main() {
     
 
     printf("Nome da cidade: %s  -- Código da cidade: %d", cidade, codigo);
+    printf("População: %f -- Pontos Turísticos: %d", povo, pontos);
     
 
     
