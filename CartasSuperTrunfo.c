@@ -28,9 +28,9 @@ int main() {
    
     
 
-    printf("Nome da cidade: %s  -- Código da cidade: %d", cidade, codigo);
-    printf("População: %f -- Pontos Turísticos: %d", povo, pontos);
-    
+    printf("Nome da cidade: %s  -- Código da cidade: %d\n", cidade, codigo);
+    printf("População: %f -- Pontos Turísticos: %d\n", povo, pontos);
+    printf("Área: %fkm³ -- PIB: %fR$\n", area, PIB);
 
     
     // Exibição dos Dados das Cartas:
